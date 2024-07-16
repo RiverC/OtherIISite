@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for The Other II	</title>
-	<atom:link href="http://192.168.1.174/comments/feed/?simply_static_page=172" rel="self" type="application/rss+xml" />
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sat, 08 Jun 2024 00:48:51 +0000</lastBuildDate>
@@ -16,7 +16,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
